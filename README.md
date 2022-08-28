@@ -1,0 +1,12 @@
+## My first game made back in the school days for nationwide competition. I won the competition.
+![1](./galeria/screen3.jpg)
+![2](galeria/screen4.jpg)
+![3](galeria/screen6.jpg)
+![4](galeria/screen7.jpg)
+![5](galeria/screen10.jpg)
+![6](galeria/screen12.jpg)
+![7](galeria/screen17.jpg)
+![8](galeria/screen18.jpg)
+![9](galeria/screen21.jpg)
+![10](galeria/screen22.jpg)
+![11](galeria/screen23.jpg)

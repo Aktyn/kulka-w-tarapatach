@@ -1,0 +1,14 @@
+width=1280
+height=720
+fullscreen=false
+fps=60
+vsync=true
+resolutionn=3
+speedTransition=4.0
+gameWidthRatio=1.5
+difficult=1
+survivalLvl=6
+enableMusic=true
+enableSounds=true
+shadows=true
+particles=true
